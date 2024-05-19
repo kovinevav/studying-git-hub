@@ -1,1 +1,7 @@
-print(Hello!)
+while True:
+    print("papa svin")
+
+
+
+
+
